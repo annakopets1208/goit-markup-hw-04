@@ -119,6 +119,11 @@ body {
 
 .hero {
   background-color: #2e2f42;
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    )
+    url(../images/people-office\ 1-min.jpg);
   padding-top: 188px;
   padding-bottom: 188px;
 }
