@@ -432,7 +432,7 @@ body {
   padding-bottom: 100px;
 }
 
-.footer.container {
+.footer-wrapper {
   display: flex;
 }
 
